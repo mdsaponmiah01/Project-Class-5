@@ -1,0 +1,124 @@
+
+#content_wrapper{
+	background-color:#ddd;
+
+}
+#content_wrapper .effect{
+	width:960px;
+	background-color:#6D6E6A;
+	margin:50px;
+	padding:50px;
+}
+
+#mesurement h1{
+	color: #fff;
+	font-size: 50px;
+	border-bottom: : 3px solid #DDDDDD;
+}
+
+#mesurement .px{
+	font-size:40px;
+}
+#mesurement .percentice{
+	font-size:300%;
+}
+#mesurement .em{
+	font-size:4em;
+}
+#mesurement .pt{
+	font-size:80pt;
+}
+/*end of measurement*/
+#selector h1{
+	color:#fff;
+	font-family: arial;
+	font-size:40px;
+	
+}
+#selector #unique{
+	font-size:25px;
+	color:#C7CBD1;
+}
+
+#selector .multiple{
+	font-size:25px;
+	color:#fff;
+
+}
+#selector p{
+	font-family:san-sarif;
+	font-size:25px;
+}
+#selector .child{
+	font-size:25px;
+	color:#EDEDED;
+}
+
+
+
+#color .id{
+	background-color: #C0C0C0;
+	border:3px solid #fff;
+	font-family: arial;
+	font-size:30px;
+	
+}
+
+#color .class{
+	font-family: arial;
+	font-size:25px;
+	color:rgb(25,25,112);
+	background-color:rgb(250,250,240);
+}
+
+#color p{
+	font-family: arial;
+	font-size:25px;
+	color:rgba(0,0,0,0.4);
+	background-color:rgba(0,0,0,0.5);
+}
+
+
+/*--start margin & padding*/
+#margin h1{
+	color:#fff;
+}
+#margin .div_1{
+	width:300px;
+	height:300px;
+	background-color: blue;
+	margin:25px 10px 5px 10px;
+}
+#margin .div_2{
+	width:300px;
+	height:300px;
+	background-color: red;
+	margin-top:80px;
+	margin-left:60px;
+	text-align: :center;
+	padding:25px 30px 50px 10px;
+
+}
+/*--end margin & padding*/
+#entite h1{
+	color:#fff;
+}
+#entite p{
+	float:left;
+	padding-left:50px;
+	border:1px solid #fff;
+	border-radius: 5px;
+	margin-left:20px;
+	text-align: center;
+}
+
+#symble h1{
+	color:#fff;
+}
+#symble p{
+	float:left;
+	padding-left:25px;
+	border:1px solid #fff;
+	border-radius: 5px;
+	margin-left:50px;
+}
